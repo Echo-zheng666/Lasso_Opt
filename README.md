@@ -49,7 +49,7 @@ $$y = Xw_{\text{true}} + \epsilon$$
 #### 3.1.1 场景1：n=500, p=100
 
 <div align="center">
-  <img src="convergence_n500_p100_0.01.png" alt="低稀疏-n500-p100收敛曲线" width="60%">
+  <img src="Lasso_Opt_2/results/sparsity=0.01/convergence_n500_p100_0.01.png" alt="低稀疏-n500-p100收敛曲线" width="60%">
 </div>
 
 **核心分析**：
@@ -80,7 +80,7 @@ $$y = Xw_{\text{true}} + \epsilon$$
 
 #### 3.1.2 场景2：n=100, p=500
 <div align="center">
-  <img src="convergence_n100_p500_0.01_iteration=500.png" alt="低稀疏-n100-p500收敛曲线" width="60%">
+  <img src="Lasso_Opt_2/results/sparsity=0.01/convergence_n100_p500_0.01_iteration=500.png" alt="低稀疏-n100-p500收敛曲线" width="60%">
 </div>
 
 **核心分析**：
@@ -96,7 +96,7 @@ $$y = Xw_{\text{true}} + \epsilon$$
 ### 3.2 中稀疏场景（sparsity=0.1）
 #### 3.2.1 场景1：n=500, p=100
 <div align="center">
-  <img src="convergence_n500_p100_0.1.png" alt="中稀疏-n500-p100收敛曲线" width="60%">
+  <img src="Lasso_Opt_2/results/sparsity=0.1/convergence_n500_p100_0.1.png" alt="中稀疏-n500-p100收敛曲线" width="60%">
 </div>
 
 **核心分析**：
@@ -107,7 +107,7 @@ $$y = Xw_{\text{true}} + \epsilon$$
 
 #### 3.2.2 场景2：n=100, p=500
 <div align="center">
-  <img src="convergence_n100_p500_0.1_iteration=1000.png" alt="中稀疏-n100-p500收敛曲线" width="60%">
+  <img src="Lasso_Opt_2/results/sparsity=0.1/convergence_n100_p500_0.1_iteration=1000.png" alt="中稀疏-n100-p500收敛曲线" width="60%">
 </div>
 
 **核心分析**：
